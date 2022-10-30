@@ -1,0 +1,54 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+auth_config.json
+.idea/.gitignore
+.idea/misc.xml
+.idea/modules.xml
+.idea/my-app.iml
+.idea/sonarlint/issuestore/index.pb
+.idea/sonarlint/issuestore/1/0/10383e889c416eabb62b0da3237fdae8192dbb82
+.idea/sonarlint/issuestore/1/b/1b919f6fcf46bb2f3bb304049c0b983ff4521a01
+.idea/sonarlint/issuestore/1/b/1bd49ed2b52840d5c6d2f3faa218620016de4993
+.idea/sonarlint/issuestore/1/e/1e43fa63aecd2127be034b3fb9d4caa172275714
+.idea/sonarlint/issuestore/3/7/37deb87ea10caa88843f1a103ec0085ae8ef755d
+.idea/sonarlint/issuestore/3/f/3f556fbcd5259132e72ea42f7108a7938c4010a6
+.idea/sonarlint/issuestore/4/4/444ff23f3c66b6109207879de42a1944a8216bf8
+.idea/sonarlint/issuestore/5/8/5819e6b5bdafe532ad482b6b586517f1b6c88858
+.idea/sonarlint/issuestore/5/8/588204e3cf0e2b4ba62f2da01ffe26e1aa9ecd58
+.idea/sonarlint/issuestore/7/0/7030d0b2f71b999ff89a343de08c414af32fc93a
+.idea/sonarlint/issuestore/7/8/786c2c4d702c1ed12bef5a8253fcc070592b7dd5
+.idea/sonarlint/issuestore/8/2/82094a950077002804c45d3afc2b1a87776c9f6f
+.idea/sonarlint/issuestore/8/7/87f3e0e4cc62eefaef83559ad73420b22d52e801
+.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+.idea/sonarlint/issuestore/8/e/8ee91ab4420a8e882d2308918befcec53a7a2a4b
+.idea/sonarlint/issuestore/a/8/a8f23be1e264d20518f94acf550eea8daf9b4aa0
+.idea/sonarlint/issuestore/a/a/aa7165aefcf8ee3d73539e99ab007daf1aa18d8d
+.idea/sonarlint/issuestore/b/6/b6edac4d9c50fdac07a1123228e640195c65cb60
+.idea/sonarlint/issuestore/b/d/bd22e369de6b4e7c909c8598869bb4c2e3bc1508
+.idea/sonarlint/issuestore/c/5/c5d38a62d1faae90a2acaa34b79a7ef365c917e4
+.idea/sonarlint/issuestore/e/7/e72ec5f658d38a33505870d421c07ed4c8f853df
+.idea/sonarlint/issuestore/f/4/f43ecdf8d666ee908aacce037b4cd72159e4741b
+.idea/sonarlint/issuestore/f/9/f900edc44cb929c2267a16100a32851f6d5b477d
+.idea/sonarlint/issuestore/f/9/f90065b11bfaf5ab2991ec9a3984b37ddfa60757
